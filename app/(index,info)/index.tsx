@@ -39,7 +39,7 @@ function Switches() {
         <Switch value={on} onValueChange={setOn} />
       </Form.HStack>
       <Form.Text bold hint={<Switch value={on} onValueChange={setOn} />}>
-        Hint
+        Hintdsdsd
       </Form.Text>
       <Form.Text
         systemImage={"light.beacon.min"}
